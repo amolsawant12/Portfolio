@@ -1,8 +1,12 @@
 Data Scientist | Data Anayst | Bussiness Intelligent Developer
 
+Languages:
+
+DAX, SQL, Python 
+
 Technical Skills:
 
-Power BI, Python, SQL, Tableau, AWS, Azure, Google Analytics
+Power BI, Power Query, Data Modeling, Data Visualization, Data Cleaning, Data Extraction, Data Mining, Data Wrangling, JIRA, Confluence, Adv MS Excel, SDLC, Tableau, ETL, Data Pipeline, Statistical Analysis, Embedded Analytics, MS Word, Fabric, Azure Data Analysis, Google Bigquery, Warehousing, Database management, Data Flow .
 
 Education:
 
