@@ -2,7 +2,7 @@ Data Scientist | Data Anayst | Bussiness Intelligent Developer
 
 Technical Skills:
 
-Power BI, Python, SQL, Tabluea, AWS, Azure, Google Analytics
+Power BI, Python, SQL, Tableau, AWS, Azure, Google Analytics
 
 Education:
 
